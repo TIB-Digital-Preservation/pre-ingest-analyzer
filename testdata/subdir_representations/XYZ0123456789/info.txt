@@ -1,0 +1,1 @@
+This folder structure is a test case for a more sophisticated duplicate finder. We are trying to avoid false positives for expected duplicates in MASTER and MODIFIED_MASTER.
